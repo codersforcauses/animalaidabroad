@@ -1,0 +1,19 @@
+.Footer {
+    display: none;
+    background-color: #a62f22;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+   .Footer {
+        background-image: url(https://static1.squarespace.com/static/5a56bf6364b05f443c3d2fea/t/5a56d4480d92975070b43bfe/1515639890501/Footer.jpg);
+        background-size: cover ;
+        background-position: ;
+        background-repeat:  ;
+    }
+
+.Main {
+    background-image: url();
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
