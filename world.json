@@ -172,22 +172,22 @@
 					"x": "0.6149",
 					"y": "0.5367"
 				},
-        {
+        			{
 					"id": "head-office",
 					"title": "Animimal Aid Abroad Head Office",
-					"description": "Animal Aid Abroad
-                          Head Office
-                          29 Launceston Avenue
-                          City Beach, WA 6015
+					"description": "Animal Aid Abroad\
+							  Head Office\
+							  29 Launceston Avenue\
+							  City Beach, WA 6015\
 
-                          PO Box 121
-                          Floreat, WA 6014
+							  PO Box 121\
+							  Floreat, WA 6014\
 
-                          General Enquiries: info@animalaidabroad.org
-                          Volunteer with Us: volunteer@animalaidabroad.org
+							  General Enquiries: info@animalaidabroad.org\
+							  Volunteer with Us: volunteer@animalaidabroad.org\
 
-                          [+61] 08 9285 0516
-                          [+61] 0 400107399",
+							  [+61] 08 9285 0516
+							  [+61] 0 400107399",
 					"pin": "pin blue xl",
 					"link": "https://www.animalaidabroad.org",
 					"x": "0.8095",
