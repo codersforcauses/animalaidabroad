@@ -1,0 +1,199 @@
+{
+	"mapwidth":"1200",
+	"mapheight":"760",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"world",
+			"title":"Our Locations",
+			"map":"https://digitalheights.com.au/static/animalaidabroad/world.svg",
+			"locations":[	
+				{
+					"id": "afghanistan-1",
+					"title": "Nowzad Equine Clinic",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.6751",
+					"y": "0.5512"
+				},
+				{
+					"id": "india-1",
+					"title": "Animal Rahat",
+					"description": "Bullocks",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7023",
+					"y": "0.6323"
+				},
+				{
+					"id": "india-2",
+					"title": "Help In Suffering, India",
+					"description": "Camels",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7161",
+					"y": "0.6079"
+				},
+				{
+					"id": "india-3",
+					"title": "Friendicoes, India",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7008",
+					"y": "0.5615"
+				},
+				{
+					"id": "india-4",
+					"title": "People for Animals Trust, India",
+					"description": "Water Program for street and working animals",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.6935",
+					"y": "0.5928"
+				},
+				{
+					"id": "indonesia-1",
+					"title": "Animal Friends Jogjakarta, Indonesia",
+					"description": "Horse Welfare Program",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7865",
+					"y": "0.7239"
+				},
+				{
+					"id": "indonesia-2",
+					"title": "Gili Eco-Trust, Indonesia",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.8017",
+					"y": "0.7281"
+				},
+				{
+					"id": "israel-1",
+					"title": "Pegasus Society for Protection of Horses and Donkeys, Israel",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5919",
+					"y": "0.5538"
+				},
+				{
+					"id": "malawi-1",
+					"title": "Lilongwe Society for the Protection and Care of Animals, Malawi",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5895",
+					"y": "0.7470"
+				},
+				{
+					"id": "nepal-1",
+					"title": "Animal Nepal, Nepal",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7208",
+					"y": "0.5717"
+				},
+				{
+					"id": "somaliland-1",
+					"title": "Social and Animal Welfare Service, Somaliland",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.6243",
+					"y": "0.6541"
+				},
+				{
+					"id": "srilanka-1",
+					"title": "Bridging Lanka, Sri Lanka",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7116",
+					"y": "0.6631"
+				},
+				{
+					"id": "tanzania-1",
+					"title": "Meru Animal Welfare Organisation, Tanzania",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5859",
+					"y": "0.7051"
+				},
+				{
+					"id": "tanzania-2",
+					"title": "Tanzania Animal Welfare Society, Tanzania",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5979",
+					"y": "0.7139"
+				},
+				{
+					"id": "tanzania-3",
+					"title": "Tanzania Animal Welfare Charity, Tanzania",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5956",
+					"y": "0.7310"
+				},
+				{
+					"id": "zambia-1",
+					"title": "Mwamfumba Multipurpose Cooperative Animal Welfare Society MMCAWS, Zambia",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.5687",
+					"y": "0.7546"
+				},
+				{
+					"id": "cambodia-1",
+					"title": "Cambodia Pony Welfare Organisation, Cambodia",
+					"description": "Equines",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.7744",
+					"y": "0.6404"
+				},
+				{
+					"id": "kurdistan-1",
+					"title": "Kurdistan Organisation of Animal Rights Protection, Kurdistan",
+					"description": "Equines, Camels and Shepherd Dogs",
+					"pin": "pin orange xl",
+					"link": "https://www.animalaidabroad.org/project-partners/",
+					"x": "0.6149",
+					"y": "0.5367"
+				},
+        {
+					"id": "head-office",
+					"title": "Animimal Aid Abroad Head Office",
+					"description": "Animal Aid Abroad
+                          Head Office
+                          29 Launceston Avenue
+                          City Beach, WA 6015
+
+                          PO Box 121
+                          Floreat, WA 6014
+
+                          General Enquiries: info@animalaidabroad.org
+                          Volunteer with Us: volunteer@animalaidabroad.org
+
+                          [+61] 08 9285 0516
+                          [+61] 0 400107399",
+					"pin": "pin blue xl",
+					"link": "https://www.animalaidabroad.org",
+					"x": "0.8095",
+					"y": "0.8339"
+				}
+			]
+		}
+	]
+}
