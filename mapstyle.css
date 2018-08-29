@@ -1042,3 +1042,7 @@ g.mapplic-clickable > * {
 #zm, #mw, #tz, #so, #il, #iq, #af, #in, #lk, #np, #kh, #path3753 {
     fill: #7e362e;
 }
+
+.mapplic-map-image * path {
+	fill: #85a74480
+}
