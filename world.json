@@ -198,6 +198,15 @@
 					"pin": "pin orange xl",
 					"x": "0.5785",
 					"y": "0.7755"
+				},
+				
+				{
+					"id": "sawc",
+					"title": "Sibanye Animal Welfare and Conservation Trust (SAWC)",
+					"description": "Sibanye Animal Welfare and Conservation Trust (SAWC)  is a grass roots community organisation set up to care and protect the environment, domestic animals and wildlife. We protect animals through a number of interventions. One of the animals we help are working donkeys. We assist them by construction of donkey bomas to protect them from predators, educating on 5 freedoms and rights of a donkey, harnessing and proper use of carts, care, feeding and corral of the donkeys, wound treatment and community education and developing culture of care and ownership. Animal Aid Abroad (AAA) supports SAWC and Tikobane Trust by funding the following projects: A)      School and Community education on working animal care/welfare B)      Wound treatment and care of donkeys and working cattle C)      Solar lighting for the Donkey corrals to protect them from night predators",
+					"pin": "pin orange xl",
+					"x": "0.5806",
+					"y": "0.7830"
 				}
 				
 			]
