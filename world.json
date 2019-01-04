@@ -186,7 +186,6 @@
 					"title": "ANIMAL AID ABROAD USA, INC",
 					"description": "If you would like to volunteer, fund raise or want to know more about our USA branch please contact us on info@animalaidabroad.org or katie@animalaidabroad.org DONATE BY DIRECT BANK TRANSFER BANK: CitiBank BANK ACCOUNT No. 9250701012 BANK ROUTING No. 254070116 SWIFT CODE: CITIUS33 BANK ADDRESS: 1717 K St. NW Washington DC 20036 Please note transaction and processing fees may apply. DONATE BY MAIL TO USA Animal Aid Abroad USA, INC 11974 Mirror Lake Ln Bristow, Virginia USA 20136 USA. DONATE BY WIRE TRANSFER TO USA Please email Katie Izenour katie@animalaidabroad.org",
 					"pin": "pin blue xl",
-					"link": "https://google.com",
 					"x": "0.2922",
 					"y": "0.5273"
 				},
@@ -207,6 +206,15 @@
 					"pin": "pin orange xl",
 					"x": "0.5806",
 					"y": "0.7830"
+				},
+				{
+					"id": "animal-nicaragua",
+					"title": "ORPROVET | https://www.facebook.com/orprovet/",
+					"description": "Orprovet, headed by Dr Lester Tapia, CEO and founder and is an NGO that provides free veterinary services in Nicaragua for both large and small animals. We have partnered with Orprovet to provide veterinary care to working equines, as well as to train local vets in equine medicine. The equine project is focused on the welfare, dental care, hood care, surgery and general consult for the horses  who suffer due to the civil unrest in Nicarágua. Their horses are put to work pulling heavy carts, overloaded with construction materials and others are used as taxis, in an effort to replace that lost income.",
+					"pin": "pin orange xl",
+					"x": "0.2716",
+					"y": "0.6482",
+					"link": "https://www.animalaidabroad.org/project-partners/"
 				}
 				
 			]
