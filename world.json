@@ -180,16 +180,7 @@
 					"link": "https://www.animalaidabroad.org",
 					"x": "0.8095",
 					"y": "0.8339"
-				},
-				{
-					"id": "animal-usa",
-					"title": "ANIMAL AID ABROAD USA, INC",
-					"description": "If you would like to volunteer, fund raise or want to know more about our USA branch please contact us on info@animalaidabroad.org or katie@animalaidabroad.org DONATE BY DIRECT BANK TRANSFER BANK: CitiBank BANK ACCOUNT No. 9250701012 BANK ROUTING No. 254070116 SWIFT CODE: CITIUS33 BANK ADDRESS: 1717 K St. NW Washington DC 20036 Please note transaction and processing fees may apply. DONATE BY MAIL TO USA Animal Aid Abroad USA, INC 11974 Mirror Lake Ln Bristow, Virginia USA 20136 USA. DONATE BY WIRE TRANSFER TO USA Please email Katie Izenour katie@animalaidabroad.org",
-					"pin": "pin blue xl",
-					"x": "0.2922",
-					"y": "0.5273"
-				},
-				
+				},	
 				{
 					"id": "animal-zimbabwe",
 					"title": "Tikobane Trust, Zimbabwe",
@@ -215,7 +206,17 @@
 					"x": "0.2716",
 					"y": "0.6482",
 					"link": "https://www.animalaidabroad.org/project-partners/"
+				},
+				{
+					"id": "animal-liberia",
+					"title": "Liberia Animal Welfare & Conservation Society",
+					"description": "Animal Aid Abroad has partnered with Liberia Animal Welfare & Conservation Society (LAWCS) to help needy and suffering working cattle in neighbouring Guinea. Cows are used in Guinea as working animals without knowledge about basic welfare needs of these animals. Their life is horrible, unbearable, and unacceptable. Sick and wounded animals are forced and beaten to work. This is mainly done by children who should be at school. The animals receive no compassion, but only pain and suffering. The good news, help is on it’s way.  AAA will help support a sustainable program that will educate the owners about kindness, respect, responsibility and welfare of their animals, along with free veterinary care and treatment",
+					"pin": "pin orange xl",
+					"x": "0.4768",
+					"y": "0.6710",
+					"link": "https://www.animalaidabroad.org/project-partners/"
 				}
+					
 				
 			]
 		}
